@@ -17,8 +17,6 @@ If cutting leather you can do the usual post-processing. I beveled the edges and
 
 ### Process
 
-
-
-<video controls src="media/laser_cut.mp4" title="Title"></video>
+![alt text](media/laser_cut.jpg)
 
 ![alt text](media/buttons_cut_rough.jpg)
